@@ -1,0 +1,19 @@
+# Data Science Tutorial Requirements
+# Core data science packages
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization packages
+altair>=4.2.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Statistical analysis
+scipy>=1.7.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional utilities that might be useful for data science tutorials
+scikit-learn>=1.0.0
